@@ -51,14 +51,6 @@ export default function Hero() {
           <FaLinkedin />
         </a>
       </div>
-
-      {/* Scroll Indicator */}
-      <a
-        href="#about"
-        className="absolute bottom-4 md:bottom-8 text-3xl animate-bounce hover:text-gray-200 transition-colors"
-      >
-        ⬇
-      </a>
     </section>
   );
 }
