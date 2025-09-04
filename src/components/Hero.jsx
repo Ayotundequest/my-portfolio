@@ -33,7 +33,7 @@ export default function Hero() {
       </div>
 
       {/* Social Links */}
-      <div className="flex gap-6 mt-6 text-2xl justify-center">
+      <div className="flex gap-6 mt-14 text-2xl justify-center">
         <a
           href="https://github.com/Ayotundequest"
           target="_blank"
