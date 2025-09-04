@@ -6,10 +6,23 @@ export default function Projects() {
       link: "https://github.com/Ayotundequest/my-portfolio.git",
     },
     {
+      title: "VAS Detailing Website",
+      desc: "A fully‑responsive, WCAG‑compliant web app for VAS Detailing built with React + Tailwind CSS (frontend) and Node/Express (backend)",
+      link: "https://github.com/Ayotundequest/vas-detailing.git",
+    },
+
+    {
+      title: "Adaptive Route Evolution(Geospatial)",
+      desc: "Built the simulation framework for the research study titled ; Geospatial Algorithm with Adaptive Route Evolution.",
+      link: "https://github.com/Ayotundequest/Adaptive-Route-Evolution.git",
+    },
+    
+    {
       title: "Frontend Dashboard",
       desc: "Developed a frontend dashboard with React and Vite, integrating APIs for real-time data visualization.",
       link: "#",
     },
+
     {
       title: "Telecom Troubleshooting Tool",
       desc: "Created a network troubleshooting helper for SMEs, simulating PPPoE setup and MikroTik configurations.",
