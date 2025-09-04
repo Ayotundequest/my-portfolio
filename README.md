@@ -3,7 +3,7 @@
 This is my personal portfolio website built with **React** and **Vite**, showcasing my projects, skills, and contact information.
 
 ## 🌐 Live Demo
-Check out the live site here: [https://Ayotundequest.github.io/my-portfolio/](https://Ayotundequest.github.io/my-portfolio/)
+Check out the live site here: [https://github.com/Ayotundequest/my-portfolio/](https://github.com/Ayotundequest/my-portfolio)
 
 ## ⚡ Features
 - Built with **React** and **Vite**
