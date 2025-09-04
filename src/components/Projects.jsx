@@ -3,7 +3,7 @@ export default function Projects() {
     {
       title: "Portfolio Website",
       desc: "Built a responsive portfolio website using React, Vite, and Tailwind CSS to showcase my projects and skills.",
-      link: "#",
+      link: "https://github.com/Ayotundequest/my-portfolio.git",
     },
     {
       title: "Frontend Dashboard",
