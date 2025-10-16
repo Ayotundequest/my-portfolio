@@ -15,7 +15,7 @@ Check out the live site here: [https://github.com/Ayotundequest/my-portfolio/](h
 ## 🛠️ Technologies Used
 - React
 - Vite
-- Tailwind CSS (or your CSS framework)
+- Tailwind CSS
 - React Icons
 
 ## 🚀 Getting Started

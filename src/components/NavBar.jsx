@@ -13,15 +13,7 @@ const NavBar = () => {
           <div className="flex justify-between items-center h-16 lg:h-20">
             {/* Logo */}
             <div className="flex items-center">
-              <a href="/">
-                <img
-                  src=""
-                  width="110"
-                  height="10"
-                  alt="Quadri"
-                  className=" mix-blend-multiply"
-                />
-              </a>
+              <h1>Quadri</h1>
             </div>
 
             {/* Desktop Menu */}
