@@ -18,7 +18,7 @@ export default function Contact() {
       className="py-20 px-6 bg-gradient-to-b from-[#272626] to-[#272626]"
     >
       <div
-        className="max-w-2xl mx-auto bg-[#300f0f] border border-[#D8E9A8] p-10 rounded-2xl shadow-lg text-center"
+        className="max-w-2xl mx-auto bg-[#191919] border border-[#D8E9A8] p-10 rounded-2xl shadow-lg text-center"
         data-aos="zoom-in"
       >
         <h2 className="text-3xl md:text-4xl font-bold mb-6 text-[#D8E9A8]">
