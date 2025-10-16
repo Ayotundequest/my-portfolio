@@ -84,7 +84,7 @@ export default function Hero() {
           <FaLinkedin />
         </a>
         <a
-          href="mailto:quadriakinjole@gmail.com"
+          href="mailto:akinjoleqaudri@gmail.com"
           target="_blank"
           rel="noreferrer"
           className="hover:text-[#86e873] transition-colors"
