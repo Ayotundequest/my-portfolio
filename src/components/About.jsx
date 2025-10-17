@@ -36,7 +36,7 @@ export default function About() {
         >
           I’m a motivated Junior Developer with a strong background in software
           development and telecoms. I hold a BEng in Electrical & Electronic
-          Engineering (Telecom Specialization) and am currently pursuing an MSc
+          Engineering (Telecom Specialization) and I am currently pursuing an MSc
           in Communication & Information Engineering with Extended Professional
           Practice at the University of Hertfordshire.
         </p>
