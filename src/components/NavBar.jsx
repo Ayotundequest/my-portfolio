@@ -13,9 +13,8 @@ const NavBar = () => {
           <div className="flex justify-between items-center h-16 lg:h-20">
             {/* Logo */}
             <div className="flex items-center">
-              <h1>Quadri</h1>
+              <h1 className="font-bold text-2xl">Quadri</h1>
             </div>
-
             {/* Desktop Menu */}
             <div className="hidden lg:flex items-center space-x-8">
               <a
