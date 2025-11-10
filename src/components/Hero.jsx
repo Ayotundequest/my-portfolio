@@ -25,7 +25,7 @@ export default function Hero() {
         className="text-4xl sm:text-5xl md:text-6xl font-bold mb-4 
                    drop-shadow-lg leading-tight mt-20"
       >
-        Hi, I'm Quadri
+        QuadriDev
       </h1>
 
       {/* Role / Subtitle */}
